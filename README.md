@@ -1,3 +1,2 @@
-# asasd
-醫療
-S的D
+長照醫療
+https://github.com/KevinShu-AEUST/betalongtermmedicalrobot
